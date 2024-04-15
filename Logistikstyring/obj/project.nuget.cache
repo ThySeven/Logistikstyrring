@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Mcyi5tT8P0M8VqNSOSUvfmhyG3K/3epgVY2rkEG9A/oEh5w6U9WkIlC5Nca7qI8aT1CCkBkIKRmXIbam9566/A==",
+  "dgSpecHash": "Ip5WmTy4zEFwuWMLGuDY1eoipbx3ewO5IzKhOt5Kvu0aFr3DLb3CzdOLlbKtTA4xdN1WoRBo4Wrzp26FnL0dvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\JeffS\\Dropbox\\EAAA\\4.Semester\\IT-Arkitektur&Infrastruktur\\Miniprojekt-2\\Logistikstyrring\\Logistikstyring\\Logistikstyring.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JeffS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\JeffS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\JeffS\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\JeffS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\JeffS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\JeffS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\JeffS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
